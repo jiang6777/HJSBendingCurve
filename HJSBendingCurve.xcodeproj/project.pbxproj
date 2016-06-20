@@ -25,6 +25,7 @@
 		9F9145E81D1789B90049CCF2 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F9145DA1D1789B90049CCF2 /* View+MASAdditions.m */; };
 		9F9145E91D1789B90049CCF2 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F9145DD1D1789B90049CCF2 /* ViewController+MASAdditions.m */; };
 		9F9145EA1D1789B90049CCF2 /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F9145DF1D1789B90049CCF2 /* UIViewExt.m */; };
+		9F9145EC1D17BC220049CCF2 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9F9145EB1D17BC220049CCF2 /* 1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		9F9145DD1D1789B90049CCF2 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
 		9F9145DE1D1789B90049CCF2 /* UIViewExt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
 		9F9145DF1D1789B90049CCF2 /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
+		9F9145EB1D17BC220049CCF2 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				9F91458C1D1781BA0049CCF2 /* ViewController.m */,
 				9F91459C1D1782060049CCF2 /* HJSBendingView.h */,
 				9F91459D1D1782060049CCF2 /* HJSBendingView.m */,
+				9F9145EB1D17BC220049CCF2 /* 1.gif */,
 				9F9145C31D1789B90049CCF2 /* ThirdLibrary */,
 				9F91458E1D1781BA0049CCF2 /* Main.storyboard */,
 				9F9145911D1781BA0049CCF2 /* Assets.xcassets */,
@@ -224,6 +227,7 @@
 			files = (
 				9F9145951D1781BA0049CCF2 /* LaunchScreen.storyboard in Resources */,
 				9F9145921D1781BA0049CCF2 /* Assets.xcassets in Resources */,
+				9F9145EC1D17BC220049CCF2 /* 1.gif in Resources */,
 				9F9145901D1781BA0049CCF2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -400,6 +404,7 @@
 				9F91459B1D1781BA0049CCF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
